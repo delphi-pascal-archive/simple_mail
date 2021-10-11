@@ -1,0 +1,3 @@
+mail_1@domain.ru
+mail_2@domain.ru
+mail_3@domain.ru
